@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{E1FB01B4-553F-492B-9FA7-508920CA37C3}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TetrisConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/FigureModel.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Models/FigureModel.cs" Line="16" Column="18" />
+      <File FileName="Services/DisplayPlayZone.cs" />
+      <File FileName="Enums/GridStatus.cs" />
+      <File FileName="Enums/MoveDirection.cs" />
+      <File FileName="Services/PointComparer.cs" />
+      <File FileName="Enums/RotationState.cs" />
+      <File FileName="Services/FigureControlService.cs" />
+      <File FileName="Services/BlockBehaviorService.cs" />
+      <File FileName="Enums/FigureState.cs" />
+      <File FileName="Constants/Constants.cs" />
+      <File FileName="Enums/FigureType.cs" />
+      <File FileName="Extensions/FigureModelExtension.cs" />
+      <File FileName="Enums/FigureShape.cs" />
+      <File FileName="Services/ScoringService.cs" />
+      <File FileName="Services/MovingService.cs" />
+      <File FileName="Services/DisplayService.cs" />
+      <File FileName="Helpers/MovingServiceHelper.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TetrisConsole" expanded="True">
+            <Node name="TetrisConsole" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="FigureModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

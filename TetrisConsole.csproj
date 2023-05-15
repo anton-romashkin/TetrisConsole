@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Models\" />
+    <None Remove="Services\" />
+    <None Remove="Enums\" />
+    <None Remove="Constants\" />
+    <None Remove="Extensions\" />
+    <None Remove="Helpers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Helpers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Services\PointComparer.cs" />
+    <Compile Remove="Enums\MoveDirection.cs" />
+    <Compile Remove="Enums\FigureShape.cs" />
+    <Compile Remove="Enums\FigureState.cs" />
+    <Compile Remove="Enums\GridStatus.cs" />
+    <Compile Remove="Managers\PlayZoneManager.cs" />
+    <Compile Remove="Services\BlockBehaviorService.cs" />
+    <Compile Remove="Services\DisplayPlayZone.cs" />
+    <Compile Remove="Services\FigureControlService.cs" />
+  </ItemGroup>
+</Project>
