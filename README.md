@@ -13,4 +13,4 @@ Esc - stop the game
 
 
 
-![Alt text](/ScreenShots/screenshot1.jpg?raw=true "TetrisConsole")
+![Alt text](/ScreenShots/screenshot.jpg?raw=true "TetrisConsole")
