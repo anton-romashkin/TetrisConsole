@@ -1,5 +1,5 @@
 C# console clone of Tetris.  
-Implemented features: difficulty progression, hold figure action. 
+Implemented features: wall-kicks, difficulty progression, hold figure action. 
   
 Controls:  
   
