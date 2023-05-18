@@ -1,4 +1,4 @@
-C# console clone of Tetris. 
+C# console clone of Tetris.  
 Due to differences between running in the console on mac and windows, it does not display correctly on windows at the moment.  
   
 Implemented features: wall-kicks, difficulty progression, hold figure action. 
